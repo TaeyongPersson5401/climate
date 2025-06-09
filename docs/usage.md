@@ -7,3 +7,4 @@ Notes and usage details for climate.
 - link the usage section
 - link the usage section
 - add a note about the defaults
+- clarify the setup steps
