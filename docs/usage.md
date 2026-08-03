@@ -38,3 +38,4 @@ Notes and usage details for climate.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
